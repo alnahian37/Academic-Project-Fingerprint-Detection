@@ -1,0 +1,60 @@
+***Image Selected: finger1.BMP  Predicted Image: finger1 (2).BMP Highest SSIM: 0.933
+***Image Selected: finger2.BMP  Predicted Image: finger2 (1).BMP Highest SSIM: 0.954
+***Image Selected: finger3.BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.673
+***Image Selected: finger4.BMP  Predicted Image: finger4 (1).BMP Highest SSIM: 0.802
+***Image Selected: finger5.BMP  Predicted Image: finger5 (2).BMP Highest SSIM: 0.824
+***Image Selected: finger6.BMP  Predicted Image: finger6 (2).BMP Highest SSIM: 1.0
+***Image Selected: finger7.BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.606
+***Image Selected: finger8.BMP  Predicted Image: finger8 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger9.BMP  Predicted Image: finger9 (3).BMP Highest SSIM: 0.786
+***Image Selected: finger10.BMP  Predicted Image: finger10 (2).BMP Highest SSIM: 0.926
+***Image Selected: finger11.BMP  Predicted Image: finger11 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger12.BMP  Predicted Image: finger12 (2).BMP Highest SSIM: 1.0
+***Image Selected: finger13.BMP  Predicted Image: finger13 (1).BMP Highest SSIM: 1.0
+***Image Selected: finger14.BMP  Predicted Image: finger14 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger15.BMP  Predicted Image: finger15 (2).BMP Highest SSIM: 1.0
+***Image Selected: finger16.BMP  Predicted Image: finger16 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger17.BMP  Predicted Image: finger17 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger18.BMP  Predicted Image: finger18 (2).BMP Highest SSIM: 0.8
+***Image Selected: finger19.BMP  Predicted Image: finger19 (2).BMP Highest SSIM: 1.0
+***Image Selected: finger20.BMP  Predicted Image: finger20 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger21.BMP  Predicted Image: finger21 (1).BMP Highest SSIM: 1.0
+***Image Selected: finger22.BMP  Predicted Image: finger22 (1).BMP Highest SSIM: 0.926
+***Image Selected: finger23.BMP  Predicted Image: finger23 (2).BMP Highest SSIM: 0.961
+***Image Selected: finger24.BMP  Predicted Image: finger24 (2).BMP Highest SSIM: 1.0
+***Image Selected: finger25.BMP  Predicted Image: finger25 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger26.BMP  Predicted Image: finger26 (2).BMP Highest SSIM: 1.0
+***Image Selected: finger27.BMP  Predicted Image: finger27 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger28.BMP  Predicted Image: finger28 (1).BMP Highest SSIM: 1.0
+***Image Selected: finger29.BMP  Predicted Image: finger29 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger30.BMP  Predicted Image: finger30 (2).BMP Highest SSIM: 1.0
+***Image Selected: finger31.BMP  Predicted Image: finger31 (1).BMP Highest SSIM: 0.83
+***Image Selected: finger32.BMP  Predicted Image: finger32 (1).BMP Highest SSIM: 0.87
+***Image Selected: finger33.BMP  Predicted Image: finger33 (3).BMP Highest SSIM: 0.919
+***Image Selected: finger34.BMP  Predicted Image: finger34 (2).BMP Highest SSIM: 0.854
+***Image Selected: finger35.BMP  Predicted Image: finger35 (1).BMP Highest SSIM: 1.0
+***Image Selected: finger36.BMP  Predicted Image: finger36 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger37.BMP  Predicted Image: finger37 (3).BMP Highest SSIM: 0.789
+***Image Selected: finger38.BMP  Predicted Image: finger38 (3).BMP Highest SSIM: 0.894
+***Image Selected: finger39.BMP  Predicted Image: finger39 (3).BMP Highest SSIM: 1.0
+***Image Selected: finger40.BMP  Predicted Image: finger40 (3).BMP Highest SSIM: 0.834
+***Image Selected: NotInDatabase (1).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.553
+***Image Selected: NotinDatabase (2).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.401
+***Image Selected: NotinDatabase (3).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.484
+***Image Selected: NotinDatabase (4).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.5
+***Image Selected: NotinDatabase (5).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.444
+***Image Selected: NotinDatabase (6).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.388
+***Image Selected: NotinDatabase (7).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.421
+***Image Selected: NotinDatabase (8).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.399
+***Image Selected: NotInDatabase (9).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.296
+***Image Selected: NotInDatabase (10).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.564
+***Image Selected: NotinDatabase (11).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.186
+***Image Selected: NotinDatabase (12).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.222
+***Image Selected: NotinDatabase (13).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.211
+***Image Selected: NotInDatabase (24).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.364
+***Image Selected: NotInDatabase (25).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.379
+***Image Selected: NotInDatabase (26).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.395
+***Image Selected: NotInDatabase (27).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.337
+***Image Selected: NotInDatabase (28).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.533
+***Image Selected: NotInDatabase (29).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.524
+***Image Selected: NotInDatabase (30).BMP  Predicted Image: NOT IN DATABASE Highest SSIM: 0.619
